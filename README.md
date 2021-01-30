@@ -26,3 +26,5 @@ Here are a couple of projects I've worked on in my free time to showcase some of
 
 ## COVIZ
 COVIZ is a R Shiny application that visualizes data around the coronavirus in the United States. You can read more about it in the `README` file of that repository. The appication can be loaded [here] (ivanecky.shinyapps.io/coviz).
+
+![Image of COVIZ] (https://ivanecky.github.io/images/ivanecky_coviz.png)
