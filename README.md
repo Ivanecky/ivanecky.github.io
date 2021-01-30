@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Welcome to Samalytics
 
-You can use the [editor on GitHub](https://github.com/Ivanecky/ivanecky.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Who am I?
+My name is Sam Ivanecky and I am a young data professional who currently works as a data analyst for Target Corporation, based out of Minneapolis, MN. I graduated from South Dakota State University in 2019 with degress in Data Science & Mathematics, with minors in Computer Science, Statistics, and Applied Statistics. Prior to venturing into the world of data, I interned as a software developer with both IBM and Protolabs. I love writing code and developing data-driven insights, particularly in the world of sports analytics. Outside of programming, I also have worked as a staff writer for [The Stride Report] (thestridereport.com), a group working to cover NCAA distance running. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Technical Skills
+* R
+* Shiny
+* Python
+* Java
+* SQL
+* C#
+* Git
+* Jira
+* Time-series Forecasting
+* Predictive Modeling
+* Machine Learning
+* Postgres
+* Object oriented programming
+* Domo
+* Data Visualizations
+* Dashboard Development
 
-### Markdown
+# Projects
+Here are a couple of projects I've worked on in my free time to showcase some of my skills with data.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ivanecky/ivanecky.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## COVIZ
+COVIZ is a R Shiny application that visualizes data around the coronavirus in the United States. You can read more about it in the `README` file of that repository. The appication can be loaded [here] (ivanecky.shinyapps.io/coviz).
